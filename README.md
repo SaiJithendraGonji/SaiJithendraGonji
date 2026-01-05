@@ -2,7 +2,7 @@
   <div class="visitor-count-text">
     <h2>Thanks for stopping by my profile! You're visitor number</h2>
     <p align="center">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=Sai-Jithendra-Gonji" alt="Visitors"/>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=SaiJithendraGonji" alt="Visitors"/>
     </p>
   </div>
 </div>
